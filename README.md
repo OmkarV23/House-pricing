@@ -6,3 +6,4 @@ Here, 3 popular algorithms are used:
 2. Gradient Boosted Decission Tree
 3. Traditional Decission Tree.
  
+[train.csv](https://github.com/OmkarV23/House-pricing/blob/main/train.csv): This file contains the training data. 
