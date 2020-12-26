@@ -5,5 +5,12 @@ Here, 3 popular algorithms are used:
 1. Linear Regression
 2. Gradient Boosted Decission Tree
 3. Traditional Decission Tree.
+
  
 [train.csv](https://github.com/OmkarV23/House-pricing/blob/main/train.csv): This file contains the training data. 
+
+[test.csv](https://github.com/OmkarV23/House-pricing/blob/main/final_result.csv): This file contains the test data.
+
+[house_pricing.ipynb](https://github.com/OmkarV23/House-pricing/blob/main/house_pricing.ipynb): This is the notebook that contains the main script.
+
+[final_result.csv](https://github.com/OmkarV23/House-pricing/blob/main/final_result.csv): File containing the predictions made by each algorithm. 
