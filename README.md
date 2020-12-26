@@ -9,7 +9,7 @@ Here, 3 popular algorithms are used:
  
 [train.csv](https://github.com/OmkarV23/House-pricing/blob/main/train.csv): This file contains the training data. 
 
-[test.csv](https://github.com/OmkarV23/House-pricing/blob/main/final_result.csv): This file contains the test data.
+[test.csv](https://github.com/OmkarV23/House-pricing/blob/main/test.csv): This file contains the test data.
 
 [house_pricing.ipynb](https://github.com/OmkarV23/House-pricing/blob/main/house_pricing.ipynb): This is the notebook that contains the main script.
 
